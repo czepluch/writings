@@ -212,7 +212,7 @@ Here's what I personally use for my digital security and crypto:
 
 **Browser:** Firefox and Orion
 
-**VPN:** ProtonVPN or ExpressVPN depending on country or feature I need, dAppNode, as always-on VPN connection and Ethereum RPC
+**VPN:** ProtonVPN or ExpressVPN, depending on country or feature I need. dAppNode, as always-on VPN connection and Ethereum RPC
 
 **Email:** ProtonMail - I really like the whole suite of tools they offer and will probably switch to them for everything eventually when other subscriptions run out
 
@@ -224,13 +224,13 @@ Here's what I personally use for my digital security and crypto:
 
 **Multisig Wallet:** Safe setup with multiple signers, making it easy to rotate keys if needed
 
-**Airgapped Device:** I have an old Android phone that's airgapped and dedicated just to signing crypto transactions. See [airgap.it](https://airgap.it/)
-
-**Privacy Coins:** Monero for private transactions and onboarding to fiat in foreign countries
-
 **Hardware Wallet:** Trezor has been my choice since 2017, if it ain't broke, don't fix it
 
 **Software Wallet:** Rabby and Frame for regular interactions with crypto
+
+**Airgapped Device:** I have an old Android phone that's airgapped and dedicated just to signing crypto transactions. See [airgap.it](https://airgap.it/)
+
+**Privacy Coins:** Monero for private transactions and onboarding to fiat in foreign countries
 
 ### Additional Resources
 
